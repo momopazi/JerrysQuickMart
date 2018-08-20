@@ -1,0 +1,4 @@
+Milk: 5, $4, $3.75, Tax-Exempt
+Redbull: 10, $4.30, $4.00, Taxable
+Flour: 14, $3.10, $2.75, Tax-Exempt
+Grapes: 6, $2, $1.5, Taxable
